@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="172px" height="42px" viewBox="0 0 172 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>企业概览选中</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="49.8844854%" x2="52.4286407%" y2="53.8216755%" id="linearGradient-1">
+            <stop stop-color="#4172F6" offset="0%"></stop>
+            <stop stop-color="#15B6E2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M715.976123,144 L867.623877,144 C869.833016,144 871.623877,145.790861 871.623877,148 C871.623877,148.389298 871.567047,148.776511 871.455183,149.149392 L861.855183,181.149392 C861.347602,182.841327 859.79031,184 858.023877,184 L706.376123,184 C704.166984,184 702.376123,182.209139 702.376123,180 C702.376123,179.610702 702.432953,179.223489 702.544817,178.850608 L712.144817,146.850608 C712.652398,145.158673 714.20969,144 715.976123,144 Z" id="path-2"></path>
+        <filter x="-21.6%" y="-96.2%" width="143.2%" height="292.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="24" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="25.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0349209119   0 0 0 0 0.255520557   0 0 0 0 0.424224411  0 0 0 0.493170892 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-701.000000, -143.000000)">
+            <g id="企业概览选中">
+                <use fill-opacity="0.81" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use stroke="#18B7D9" stroke-width="1" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

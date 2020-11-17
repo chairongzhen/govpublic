@@ -1,0 +1,78 @@
+{
+  "domestic":{
+    "shangyezhishu":{
+      "xianjia":3356.10,
+      "zhangdie":31.98,
+      "zhangdiefu":0.96,
+      "nianchuzhijin":16.40
+    },
+    "shangzhengliutong": {
+      "xianjia": 1295.90,
+      "zhangdie": 9.47,
+      "zhangdiefu": 0.74,
+      "nianchuzhijin": 12.81
+    },
+    "shangzhengzhishu": {
+      "xianjia": 3316.42,
+      "zhangdie": 23.83,
+      "zhangdiefu": 0.72,
+      "nianchuzhijin": 8.73
+    },
+    "xinzongzhi": {
+      "xianjia": 2802.64,
+      "zhangdie": 20.22,
+      "zhangdiefu": 0.73,
+      "nianchuzhijin": 8.76
+    },
+    "zhongxingzongzhi": {
+      "xianjia": 1353.78,
+      "zhangdie": -4.70,
+      "zhangdiefu": -0.35,
+      "nianchuzhijin": 28.62
+    },
+    "zonghezhishu": {
+      "xianjia": 2945.31,
+      "zhangdie": 45.96,
+      "zhangdiefu": 1.59,
+      "nianchuzhijin": -0.51
+    }
+  },
+  "international":{
+    "daoqionggongyezhishu": {
+      "xianjia": 27500.89,
+      "zhangdie": -632.42,
+      "zhangdiefu": -2.25,
+      "nianchuzhijin": -3.64 
+    },
+    "nasidakezhishu": {
+      "xianjia": 10847.69,
+      "zhangdie": -465.44,
+      "zhangdiefu": -4.11,
+      "nianchuzhijin": 20.90
+    },
+    "biaopu500": {
+      "xianjia": 3331.84,
+      "zhangdie": -95.12,
+      "zhangdiefu": 2.78,
+      "nianchuzhijin": 3.13
+    },
+    "luosu3000zhishu": {
+      "xianjia": 1940.99,
+      "zhangdie": -56.89,
+      "zhangdiefu": -2.85,
+      "nianchuzhijin": 2.58
+    },
+    "CBOEbodonglv": {
+      "xianjia": 31.46,
+      "zhangdie": 0.71,
+      "zhangdiefu": 2.31,
+      "nianchuzhijin": 128.30
+    },
+    "duolunduo300": {
+      "xianjia": 16099.52,
+      "zhangdie": -118.49,
+      "zhangdiefu": -0.73,
+      "nianchuzhijin": -5.65
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="40px" viewBox="0 0 170 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>未选中</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="49.8844854%" x2="52.4286407%" y2="53.8216755%" id="linearGradient-1">
+            <stop stop-color="#4172F6" offset="0%"></stop>
+            <stop stop-color="#15B6E2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M887.976123,144 L1039.62388,144 C1041.83302,144 1043.62388,145.790861 1043.62388,148 C1043.62388,148.389298 1043.56705,148.776511 1043.45518,149.149392 L1033.85518,181.149392 C1033.3476,182.841327 1031.79031,184 1030.02388,184 L878.376123,184 C876.166984,184 874.376123,182.209139 874.376123,180 C874.376123,179.610702 874.432953,179.223489 874.544817,178.850608 L884.144817,146.850608 C884.652398,145.158673 886.20969,144 887.976123,144 Z" id="path-2"></path>
+        <filter x="-21.3%" y="-95.0%" width="142.6%" height="290.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="24" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="25.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0349209119   0 0 0 0 0.255520557   0 0 0 0 0.424224411  0 0 0 0.493170892 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页tiaozheng-" transform="translate(-874.000000, -144.000000)">
+            <g id="未选中">
+                <use fill-opacity="0.2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,129 @@
+@import '../../styles/mixins';
+
+.dashboard-listed-companies {
+    display: flex;
+    flex-wrap: wrap;
+    .width-height-100();
+    padding: 0 0.020833rem; //4
+
+    >div {
+        .width-height-50();
+        padding: 0.020833rem; //4
+
+        >div {
+            .width-height-100();
+            // border: solid 1px black;
+            // background-image: linear-gradient(178deg, #4172F6 100%, #15B6E2 100%);
+            background-color: rgba(15, 56, 117, 0.7);
+            box-shadow: inset 0 1px 21px 4px rgba(9, 65, 108, 0.49);
+            border-radius: 4px;
+            padding-top: 0.104167rem; //20
+        }
+    }
+
+    >.listed-companies-1 {
+        .listed-companies-1-one {
+            width: 100%;
+            height: 100%;
+            padding-top: 0.182292rem; //35
+        }
+
+        .w-tabs {
+            height: 100%;
+
+            .w-tabs-content-animated {
+                height: 100%;
+            }
+
+        }
+    }
+
+    >.listed-companies-2 {
+        .listed-companies-2-one {
+            width: 90%;
+            height: 97%;
+            padding-top: 0.182292rem; //35
+        }
+    }
+
+    >.listed-companies-3 {
+        .listed-companies-3-one {
+            width: 90%;
+            height: 97%;
+            padding-top: 0.182292rem; //35
+        }
+    }
+
+    >.listed-companies-4 {
+        .companies-4-table {
+            margin-top: 0.192708rem; //37
+            padding: 0 0.3125rem; //25 60
+            display: flex;
+            justify-content: center;
+
+            .stock-table {
+                width: 3.75rem; //720
+                // height: 100%;
+                font-size: 0.083333rem; //16
+                text-align: center;
+                border-collapse: collapse;
+                line-height: .072917rem; //56
+                letter-spacing: 0;
+
+                thead {
+                    background-image: linear-gradient(90deg, #4172F6 2%, #15B6E2 98%);
+                    border-radius: 1.02px;
+                }
+
+                tr {
+
+                    >th:last-child,
+                    >td:last-child {
+                        padding-right: 0.104167rem; //20
+                    }
+                }
+
+                th {
+                    color: #FFFFFF;
+                    width: .392708rem; //301.6
+                    height: 0.203125rem; //39                 
+                    background-color: transparent;
+                    // border: solid 1px #797979;
+                    text-align: right;
+                }
+
+                tbody {
+                    >tr {
+                        background-color: rgba(19, 59, 117, 0.5);
+                    }
+                }
+
+                td {
+                    color: #FA2832;
+                    width: .392708rem; //301.6
+                    height: 0.203125rem; //39            
+                    background-color: transparent;
+                    // border: solid 1px #797979;
+                    // todo 4px 
+                    text-align: right;
+                }
+
+                .left-table-firstlast-column {
+                    width: 0.104167rem; //20
+                    text-align: left;
+
+                }
+
+                .left-table-second-column {
+                    color: #FFFFFF;
+                    text-align: left;
+                    text-indent: 0.104167rem; //20
+                }
+
+                .green-font {
+                    color: #16BC50;
+                }
+            }
+        }
+    }
+}

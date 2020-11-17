@@ -1,0 +1,227 @@
+/**
+	 * @author Jannchie
+	 * @email jannchie@gmail.com
+
+	 * @create date 2018-05-03 08:44:46
+	 * @modify date 2019-04-15 15:43:32
+	*/	
+	.barChartRace{
+
+		position: relative;
+
+		input[type=range]{
+			-webkit-appearance: none;
+			width:6.0rem;
+			border-radius: .8rem;
+		}
+
+		input[type=range]::-webkit-slider-thumb{
+			-webkit-appearance: none;
+			height: .07rem;
+			width: .07rem;
+			margin-top: -0.0275rem;
+			background: #3DC1D4;
+			border-radius: 50%;
+			// border:solid 0.125em rgba(205,224,230,0.5);
+		}
+
+		input[type=range]::-webkit-slider-runnable-track{
+			height: .026042rem;
+			background: #F2F2F2;
+			border-radius: .266667rem;
+		}
+
+		input[type=range]:focus{
+			outline: none;
+		}
+		.scroll{
+			// display: flex;
+			display: none;
+			color: black;
+			.icon{
+				align-items: center;
+				height: 0.146667rem;
+				width: 0.366667rem;
+			}
+			.w_bottom_operation {
+				// position: absolute;
+				// bottom: -.533333rem;
+				// left: 0.2rem;
+				// right: 0;
+				// flex-direction: row;
+				height: 0.146667rem;
+				// display: flex;
+				line-height: 0.146667rem;
+				width: calc(100%);
+	
+				// .w_xmin {
+				// 	opacity: 0.5;
+				// 	width: 1.066667rem;
+				// 	text-align: center;
+				// }
+		
+				// .w_xmax {
+				// 	opacity: 0.5;
+				// 	width: 1.066667rem;
+				// 	text-align: center;
+				// }
+				.progress{
+					width: calc(100% - 0.533333rem)!important;
+
+				}
+			}
+		}
+
+		.domain {
+			display: none;
+		}
+	
+	.tick line {
+	    stroke:  #2A2A30;
+	}
+	
+	.tick text {
+		fill: #8E8883;
+		color:rgba(255,255,255,0.38);
+	    font-size: .293333rem;
+	    font-family: "Microsoft YaHei";
+	}
+
+	.tick-dy text {
+	    fill: #8E8883;
+	    font-size: 10pt;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.label {
+		fill: black;
+		opacity: 0.9;
+		font-weight: 500;
+		font-size: .085rem;
+		line-height: .085rem;
+		// font-size: 50;
+	    font-family: "Microsoft YaHei";
+		font-weight: bold ;
+		width:100px !important;
+		text-overflow: ellipsis;
+	}
+	
+	.dateLabel {
+		fill: #5C5C5C;
+		// font-weight: bold ;
+	    display: table-cell;
+	    font-size: .304167rem;
+	    font-weight: bold;
+	    font-family: "Microsoft YaHei";
+	}
+
+	.dateLabel-dy {
+	    fill: #fff;
+	    display: table-cell;
+	    font-size:.166667rem;
+	    font-weight: bold;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.dateLabelRed {
+	    fill: #A72E2E;
+	    display: table-cell;
+	    font-size: 90pt;
+	    font-weight: bold;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	
+	.days {
+	    fill: #fff;
+	    font-weight: bold;
+	    font-size: 55pt;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.topLabel {
+	    fill: #fff;
+	    font-weight: bold;
+	    font-size: 40pt;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.unitLabel{
+		fill: #8E8883;
+	    font-size: .0625rem;
+		font-family: "Microsoft YaHei";
+	}
+
+	.unitLabel-dy{
+		fill: #8E8883;
+	    font-size: 10pt;
+	    font-family: "Microsoft YaHei";
+	}
+
+	.top {
+	    fill: #fff;
+	    font-weight: bold;
+	    font-size: 62pt;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.value {
+		// fill: #8A2E2E;
+		color: black;
+		line-height: .085rem;
+	    font-size: .085rem;
+	    font-weight: 600;
+	    font-family: "Microsoft YaHei";
+	}
+
+	.value-dy {
+	    // fill: #8A2E2E;
+	    font-size: 10pt;
+	    font-weight: 400;
+	    font-family: "Microsoft YaHei";
+	}
+
+	.label {
+		
+		font-family: "Microsoft YaHei";
+	}
+
+	.label-dy {
+		font-weight: 400;
+		font-size: 10pt;
+		font-family: "Microsoft YaHei";
+	}
+	
+	.barInfo {
+	    fill: #635F5D;
+	    font-weight: 800;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.axis-label {
+	    fill: #635F5D;
+	    font-size: 32pt;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.days {
+	    fill: r#fff;
+	    font-weight: bold;
+	    font-size: 40pt;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.dayslabel {
+	    fill: #fff;
+	    font-weight: bold;
+	    font-size: 25pt;
+	    font-family: "Microsoft YaHei";
+	}
+	
+	.growth {
+	    fill: #fff;
+	    font-weight: bold;
+	    font-size: 40pt;
+	    font-family: "Microsoft YaHei";
+	}
+}

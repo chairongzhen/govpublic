@@ -1,0 +1,26 @@
+@import '../../styles/mixins';
+
+.dashboard-zhaotoubiao {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  .content-middle {
+    height: 98%;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    > div {
+      height: 49.5%;
+      width: 49.5%;
+    }
+    > div:first-child,
+    > div:nth-child(3) {
+      margin-right: 0.052083rem;
+    }
+    > div:first-child,
+    > div:nth-child(2) {
+      margin-bottom: 0.052083rem;
+    }
+  }
+}

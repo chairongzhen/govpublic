@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1917px" height="721px" viewBox="0 0 1917 721" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ditu </title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="上海金融指数1备份-6" transform="translate(-40.000000, -40.000000)">
+            <g id="ditu-" transform="translate(40.000000, 40.000000)">
+                <!-- <g id="编组-9备份-8" fill="#00F4FF">
+                    <rect id="矩形" x="0" y="0" width="8" height="64" rx="2"></rect>
+                    <path d="M30,-28 L34,-28 C35.1045695,-28 36,-27.1045695 36,-26 L36,34 C36,35.1045695 35.1045695,36 34,36 L30,36 C28.8954305,36 28,35.1045695 28,34 L28,-26 C28,-27.1045695 28.8954305,-28 30,-28 Z" id="矩形备份" transform="translate(32.000000, 4.000000) rotate(90.000000) translate(-32.000000, -4.000000) "></path>
+                </g> -->
+                <g id="编组-12" transform="translate(403.000000, 495.000000)">
+                    <circle id="椭圆形" fill="#FF9C38" cx="288" cy="52" r="12"></circle>
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="85" width="300" height="180" rx="2"></rect>
+                    <text id="富时新加坡海峡指数" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="33" y="122">富时新加坡海峡指数</tspan>
+                    </text>
+                    <line x1="288" y1="59" x2="288" y2="84.891772" id="路径-2" stroke="#FF9C38"></line>
+                </g>
+                <g id="编组-2" transform="translate(1292.000000, 131.000000)">
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="0" width="300" height="180" rx="2"></rect>
+                    <text id="道琼斯工业指数" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="59" y="37">道琼斯工业指数</tspan>
+                    </text>
+                </g>
+                <g id="编组-12备份-2" transform="translate(1340.000000, 287.000000)">
+                    <circle id="椭圆形" fill="#FF9C38" cx="278" cy="2" r="12"></circle>
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="45" width="300" height="180" rx="2"></rect>
+                    <text id="纳斯达克指数" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="72" y="82">纳斯达克指数</tspan>
+                    </text>
+                    <!-- <line x1="288" y1="19" x2="288" y2="44.891772" id="路径-2" stroke="#FF9C38"></line> -->
+                </g>
+                <g id="编组-13" transform="translate(1616.000000, 81.000000)">
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="0" width="300" height="180" rx="2"></rect>
+                    <text id="标普500" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="99" y="37">标普500</tspan>
+                    </text>
+                </g>
+                <circle id="椭圆形" fill="#FF9C38" cx="169" cy="218" r="12"></circle>
+                <g id="编组-17" transform="translate(157.000000, -1.000000)">
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="0" width="300" height="180" rx="2"></rect>
+                    <text id="英国富时100" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="76" y="37">英国富时100</tspan>
+                    </text>
+                </g>
+                <circle id="椭圆形" fill="#FF9C38" cx="783" cy="356" r="12"></circle>
+                <g id="编组-14" transform="translate(495.000000, 127.000000)">
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="0" width="300" height="180" rx="2"></rect>
+                    <text id="上证指数" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="98" y="37">上证指数</tspan>
+                    </text>
+                </g>
+                <circle id="椭圆形" fill="#FF9C38" cx="742" cy="409" r="12"></circle>
+                <g id="编组-15" transform="translate(414.000000, 311.000000)">
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="0" width="300" height="180" rx="2"></rect>
+                    <text id="深圳指数" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="98" y="37">深圳指数</tspan>
+                    </text>
+                </g>
+                <circle id="椭圆形" fill="#FF9C38" cx="877" cy="330" r="12"></circle>
+                <g id="编组-16" transform="translate(863.000000, 368.000000)">
+                    <rect id="矩形" stroke="#52689F" fill-opacity="0.760926573" fill="#041235" x="0" y="0" width="300" height="180" rx="2"></rect>
+                    <text id="日经225" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" letter-spacing="1.96643478" fill="#41FDFF">
+                        <tspan x="99" y="37">日经225</tspan>
+                    </text>
+                </g>
+                <!-- <line x1="1605" y1="286" x2="1605" y2="311.891772" id="路径-2" stroke="#FF9C38" transform="translate(1605.000000, 298.945886) rotate(-90.000000) translate(-1605.000000, -298.945886) "></line> -->
+                <!-- <line x1="1628" y1="262" x2="1628" y2="287.891772" id="路径-2" stroke="#FF9C38"></line> -->
+                <line x1="727" y1="386" x2="727" y2="411.891772" id="路径-2" stroke="#FF9C38" transform="translate(727.000000, 398.945886) rotate(-90.000000) translate(-727.000000, -398.945886) "></line>
+                <line x1="782.5" y1="306.5" x2="783" y2="343.891772" id="路径-2" stroke="#FF9C38"></line>
+                <line x1="877" y1="342" x2="877" y2="367.891772" id="路径-2" stroke="#FF9C38"></line>
+                <line x1="169" y1="180" x2="169" y2="205.891772" id="路径-2" stroke="#FF9C38"></line>
+                <g id="编组-2备份" transform="translate(443.000000, 665.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="0" y="70.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="134" y="70.5">1.01%</tspan>
+                    </text>
+                </g>
+                <g id="编组-2备份-2" transform="translate(454.000000, 436.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="0" y="30.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="134" y="30.5">1.01%</tspan>
+                    </text>
+                </g>
+                <g id="编组-2备份-3" transform="translate(923.000000, 493.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="-15" y="30.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="119" y="30.5">1.01%</tspan>
+                    </text>
+                </g>
+                <g id="编组-2备份-6" transform="translate(1332.000000, 256.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="0" y="30.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="134" y="30.5">1.01%</tspan>
+                    </text>
+                </g>
+                <g id="编组-2备份-8" transform="translate(1380.000000, 457.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="0" y="30.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="134" y="30.5">1.01%</tspan>
+                    </text>
+                </g>
+                <g id="编组-2备份-7" transform="translate(1656.000000, 206.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="0" y="30.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="134" y="30.5">1.01%</tspan>
+                    </text>
+                </g>
+                <g id="编组-2备份-4" transform="translate(535.000000, 252.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="0" y="30.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="134" y="30.5">1.01%</tspan>
+                    </text>
+                </g>
+                <g id="编组-2备份-5" transform="translate(207.000000, 159.000000)" fill="#FA2832" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" letter-spacing="2.29417391" line-spacing="42">
+                    <text id="+28.58">
+                        <tspan x="-10" y="-5.5">+28.58</tspan>
+                    </text>
+                    <text id="1.01%">
+                        <tspan x="124" y="-5.5">1.01%</tspan>
+                    </text>
+                </g>
+                <text id="2846.55备份" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="446" y="684">2846.55</tspan>
+                </text>
+                <text id="2846.55备份-2" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="457" y="415">2846.55</tspan>
+                </text>
+                <text id="2846.55备份-3" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="906" y="472">2846.55</tspan>
+                </text>
+                <text id="2846.55备份-6" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="1335" y="235">2846.55</tspan>
+                </text>
+                <text id="2846.55备份-8" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="1383" y="436">2846.55</tspan>
+                </text>
+                <text id="2846.55备份-7" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="1659" y="185">2846.55</tspan>
+                </text>
+                <text id="2846.55备份-4" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="538" y="231">2846.55</tspan>
+                </text>
+                <text id="2846.55备份-5" font-family="PingFangSC-Medium, PingFang SC" font-size="48" font-weight="400" letter-spacing="3.93286957" fill="#FA2832">
+                    <tspan x="200" y="103">2846.55</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

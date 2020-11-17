@@ -1,0 +1,35 @@
+.dashboard-components-indeical-card {
+    .width-height-100 ();
+    display: flex;
+    flex-direction: column;
+
+    >.indeical-card-title {
+        // height: 0.25rem; //48
+        width: 100%;
+        font-size: 0.104167rem; //20
+        line-height: 0.104167rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #09D7FF;
+        position: relative;
+
+        .moren {
+            z-index: 9999;
+            font-size: 0.09375rem; //18
+            position: absolute;
+            right: 0.130208rem; //25
+
+            img {
+                margin-left: 0.041667rem; //8
+            }
+        }
+    }
+
+    >.indeical-card-content {
+        flex-grow: 1;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+}

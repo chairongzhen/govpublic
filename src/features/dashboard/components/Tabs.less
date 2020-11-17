@@ -1,0 +1,47 @@
+.dashboard-components-tabs {
+    .width-height-100();
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    @content-width: 90%;
+
+    .tabs-title {
+        height: 0.208333rem; //40
+        width: @content-width;
+        display: flex;
+        align-items: center;
+
+        >.title-k {
+            position: relative;
+            // width: 0.520833rem; //100
+            // height: 100%;
+            width: 0.614583rem; //118
+            height: 0.145833rem; //28
+
+            >span {
+                position: absolute;
+                line-height: 100%;
+                width: 100%;
+                text-align: center;
+                width: 0.614583rem; //118
+                height: 0.145833rem; //28
+                line-height: 0.145833rem;
+            }
+
+            >img {
+                position: absolute;
+                width: 0.614583rem; //118
+                height: 0.145833rem; //28
+            }
+        }
+    }
+
+    .tabs-content {
+        width: @content-width;
+        flex-grow: 1;
+
+        >div {
+            .width-height-100();
+        }
+    }
+}

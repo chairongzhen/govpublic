@@ -1,0 +1,940 @@
+{
+  "shanghai":[
+      {
+        "EventDetailTypeName": "行业恶化",
+        "EventTypeCode": 337001000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337001001
+      },
+      {
+        "EventDetailTypeName": "政策恶化",
+        "EventTypeCode": 337001000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337001003
+      },
+      {
+        "EventDetailTypeName": "IPO融资异常",
+        "EventTypeCode": 337002000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337002002
+      },
+      {
+        "EventDetailTypeName": "再融资异常",
+        "EventTypeCode": 337002000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337002004
+      },
+      {
+        "EventDetailTypeName": "债权融资异常",
+        "EventTypeCode": 337002000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337002006
+      },
+      {
+        "EventDetailTypeName": "资产抵押",
+        "EventTypeCode": 337002000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337002008
+      },
+      {
+        "EventDetailTypeName": "并购重组异常",
+        "EventTypeCode": 337003000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337003002
+      },
+      {
+        "EventDetailTypeName": "投资失误",
+        "EventTypeCode": 337003000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337003003
+      },
+      {
+        "EventDetailTypeName": "经营问题",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337004002
+      },
+      {
+        "EventDetailTypeName": "资质撤销",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337004006
+      },
+      {
+        "EventDetailTypeName": "减资破产",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337004009
+      },
+      {
+        "EventDetailTypeName": "关联方问题",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337004003
+      },
+      {
+        "EventDetailTypeName": "产品问题",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337004004
+      },
+      {
+        "EventDetailTypeName": "项目问题",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337004007
+      },
+      {
+        "EventDetailTypeName": "安全事故",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337004008
+      },
+      {
+        "EventDetailTypeName": "业务变化",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337004001
+      },
+      {
+        "EventDetailTypeName": "债务承继",
+        "EventTypeCode": 337004000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337004010
+      },
+      {
+        "EventDetailTypeName": "董监高成员变化",
+        "EventTypeCode": 337005000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337005001
+      },
+      {
+        "EventDetailTypeName": "董监高成员异常事件",
+        "EventTypeCode": 337005000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337005002
+      },
+      {
+        "EventDetailTypeName": "员工变动",
+        "EventTypeCode": 337005000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337005003
+      },
+      {
+        "EventDetailTypeName": "股权激励异常",
+        "EventTypeCode": 337005000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337005005
+      },
+      {
+        "EventDetailTypeName": "控制人变化",
+        "EventTypeCode": 337006000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337006001
+      },
+      {
+        "EventDetailTypeName": "股票质押异常",
+        "EventTypeCode": 337006000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337006003
+      },
+      {
+        "EventDetailTypeName": "股权冻结",
+        "EventTypeCode": 337006000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337006004
+      },
+      {
+        "EventDetailTypeName": "股权质押",
+        "EventTypeCode": 337006000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337006002
+      },
+      {
+        "EventDetailTypeName": "亏损",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337007001
+      },
+      {
+        "EventDetailTypeName": "非标意见",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337007013
+      },
+      {
+        "EventDetailTypeName": "重大损失",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337007016
+      },
+      {
+        "EventDetailTypeName": "预亏",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007002
+      },
+      {
+        "EventDetailTypeName": "盈利能力下降",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007004
+      },
+      {
+        "EventDetailTypeName": "偿债能力下降",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007005
+      },
+      {
+        "EventDetailTypeName": "运营能力下降",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007006
+      },
+      {
+        "EventDetailTypeName": "成长能力下降",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007007
+      },
+      {
+        "EventDetailTypeName": "资产异常",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007008
+      },
+      {
+        "EventDetailTypeName": "放弃债权",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007010
+      },
+      {
+        "EventDetailTypeName": "大额借贷担保",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007011
+      },
+      {
+        "EventDetailTypeName": "延期披露",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007014
+      },
+      {
+        "EventDetailTypeName": "业绩更正",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007015
+      },
+      {
+        "EventDetailTypeName": "财务指标异动",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337007024
+      },
+      {
+        "EventDetailTypeName": "财务勾稽不符",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337007009
+      },
+      {
+        "EventDetailTypeName": "变更会计师",
+        "EventTypeCode": 337007000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337007012
+      },
+      {
+        "EventDetailTypeName": "资产查封",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337008005
+      },
+      {
+        "EventDetailTypeName": "诉讼纠纷",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337008006
+      },
+      {
+        "EventDetailTypeName": "立案调查开始",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337008019
+      },
+      {
+        "EventDetailTypeName": "其他违规处罚",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008002
+      },
+      {
+        "EventDetailTypeName": "资金问题",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008004
+      },
+      {
+        "EventDetailTypeName": "关注函",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008010
+      },
+      {
+        "EventDetailTypeName": "环保处罚",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008011
+      },
+      {
+        "EventDetailTypeName": "食药监处罚",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008012
+      },
+      {
+        "EventDetailTypeName": "税收处罚",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008013
+      },
+      {
+        "EventDetailTypeName": "安监处罚",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008014
+      },
+      {
+        "EventDetailTypeName": "金融监管处罚",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008015
+      },
+      {
+        "EventDetailTypeName": "企业欠税",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008016
+      },
+      {
+        "EventDetailTypeName": "交易商协会自律处分",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008018
+      },
+      {
+        "EventDetailTypeName": "司法拍卖",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337008023
+      },
+      {
+        "EventDetailTypeName": "问询",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337008003
+      },
+      {
+        "EventDetailTypeName": "重大澄清",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337008007
+      },
+      {
+        "EventDetailTypeName": "立案调查结束",
+        "EventTypeCode": 337008000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337008020
+      },
+      {
+        "EventDetailTypeName": "违约失信",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337009001
+      },
+      {
+        "EventDetailTypeName": "投资评级恶化",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337009002
+      },
+      {
+        "EventDetailTypeName": "欺诈造假",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337009003
+      },
+      {
+        "EventDetailTypeName": "担保风险",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337009006
+      },
+      {
+        "EventDetailTypeName": "抵押物风险",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337009007
+      },
+      {
+        "EventDetailTypeName": "失信被执行人",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337009009
+      },
+      {
+        "EventDetailTypeName": "列入经营异常名录",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337009010
+      },
+      {
+        "EventDetailTypeName": "列入严重违法失信企业名单",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337009011
+      },
+      {
+        "EventDetailTypeName": "被执行人",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337009014
+      },
+      {
+        "EventDetailTypeName": "承诺失信",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337009004
+      },
+      {
+        "EventDetailTypeName": "移出失信执行",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337009008
+      },
+      {
+        "EventDetailTypeName": "移出经营异常名录",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337009012
+      },
+      {
+        "EventDetailTypeName": "移出严重违法失信企业名单",
+        "EventTypeCode": 337009000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337009013
+      },
+      {
+        "EventDetailTypeName": "自然灾害",
+        "EventTypeCode": 337010000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337010001
+      },
+      {
+        "EventDetailTypeName": "战争",
+        "EventTypeCode": 337010000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337010002
+      },
+      {
+        "EventDetailTypeName": "不可抗力",
+        "EventTypeCode": 337010000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337010003
+      },
+      {
+        "EventDetailTypeName": "未按时兑付本金",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012001
+      },
+      {
+        "EventDetailTypeName": "未按时兑付利息",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012002
+      },
+      {
+        "EventDetailTypeName": "未按时兑付本息",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012003
+      },
+      {
+        "EventDetailTypeName": "未按时兑付回售款",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012004
+      },
+      {
+        "EventDetailTypeName": "交叉条款违约",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012005
+      },
+      {
+        "EventDetailTypeName": "技术性违约",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012006
+      },
+      {
+        "EventDetailTypeName": "担保违约",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012007
+      },
+      {
+        "EventDetailTypeName": "未按时兑付回售款和利息",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012008
+      },
+      {
+        "EventDetailTypeName": "提前到期未兑付",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012009
+      },
+      {
+        "EventDetailTypeName": "本息展期",
+        "EventTypeCode": 337012000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337012010
+      },
+      {
+        "EventDetailTypeName": "主体评级下调",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013001
+      },
+      {
+        "EventDetailTypeName": "债项评级下调",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013002
+      },
+      {
+        "EventDetailTypeName": "评级展望下调为负面",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013003
+      },
+      {
+        "EventDetailTypeName": "发行人被列入评级观察名单",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013005
+      },
+      {
+        "EventDetailTypeName": "债券被列入评级观察名单",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013006
+      },
+      {
+        "EventDetailTypeName": "发行人被列入评级观察名单(可能调低)",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013013
+      },
+      {
+        "EventDetailTypeName": "债券被列入评级观察名单(可能调低)",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013014
+      },
+      {
+        "EventDetailTypeName": "担保人评级下调",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337013018
+      },
+      {
+        "EventDetailTypeName": "主权评级下调",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337013010
+      },
+      {
+        "EventDetailTypeName": "主权评级展望下调为负面",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337013011
+      },
+      {
+        "EventDetailTypeName": "主权被列入评级观察名单",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337013012
+      },
+      {
+        "EventDetailTypeName": "推迟评级",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337013008
+      },
+      {
+        "EventDetailTypeName": "发行人被纳入评级关注",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337013007
+      },
+      {
+        "EventDetailTypeName": "首次信用评级",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337013019
+      },
+      {
+        "EventDetailTypeName": "维持信用评级",
+        "EventTypeCode": 337013000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337013020
+      },
+      {
+        "EventDetailTypeName": "债券兑付风险警示公告",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337014001
+      },
+      {
+        "EventDetailTypeName": "爆发金融危机",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337014009
+      },
+      {
+        "EventDetailTypeName": "发行人申请债券停牌",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337014005
+      },
+      {
+        "EventDetailTypeName": "发行利率异常升高",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337014006
+      },
+      {
+        "EventDetailTypeName": "国家财政状况恶化",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337014007
+      },
+      {
+        "EventDetailTypeName": "国际收支异常",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337014008
+      },
+      {
+        "EventDetailTypeName": "国家债务率大幅上升",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337014010
+      },
+      {
+        "EventDetailTypeName": "政局动荡",
+        "EventTypeCode": 337014000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337014011
+      },
+      {
+        "EventDetailTypeName": "成交价大幅偏离估值",
+        "EventTypeCode": 337015000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337015001
+      },
+      {
+        "EventDetailTypeName": "估值收益率大幅上行",
+        "EventTypeCode": 337015000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337015002
+      },
+      {
+        "EventDetailTypeName": "成交价大幅偏离前收盘价",
+        "EventTypeCode": 337015000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337015005
+      },
+      {
+        "EventDetailTypeName": "被大量报卖",
+        "EventTypeCode": 337015000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337015003
+      },
+      {
+        "EventDetailTypeName": "临时停牌",
+        "EventTypeCode": 337015000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337015004
+      },
+      {
+        "EventDetailTypeName": "募集异常",
+        "EventTypeCode": 337017000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337017002
+      },
+      {
+        "EventDetailTypeName": "终止上市",
+        "EventTypeCode": 337017000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337017004
+      },
+      {
+        "EventDetailTypeName": "基金上市",
+        "EventTypeCode": 337017000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337017003
+      },
+      {
+        "EventDetailTypeName": "基金经理离任",
+        "EventTypeCode": 337018000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337018001
+      },
+      {
+        "EventDetailTypeName": "新聘基金经理",
+        "EventTypeCode": 337018000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337018002
+      },
+      {
+        "EventDetailTypeName": "分级基金下折",
+        "EventTypeCode": 337019000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337019003
+      },
+      {
+        "EventDetailTypeName": "重仓股票异动",
+        "EventTypeCode": 337019000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337019007
+      },
+      {
+        "EventDetailTypeName": "评级下调",
+        "EventTypeCode": 337019000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337019009
+      },
+      {
+        "EventDetailTypeName": "净值异常波动",
+        "EventTypeCode": 337019000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337019001
+      },
+      {
+        "EventDetailTypeName": "交易价格异常",
+        "EventTypeCode": 337019000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337019002
+      },
+      {
+        "EventDetailTypeName": "规模大幅缩水",
+        "EventTypeCode": 337019000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337019005
+      },
+      {
+        "EventDetailTypeName": "基金清算",
+        "EventTypeCode": 337020000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337020002
+      },
+      {
+        "EventDetailTypeName": "基金合同变更",
+        "EventTypeCode": 337020000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337020001
+      },
+      {
+        "EventDetailTypeName": "基金转型",
+        "EventTypeCode": 337020000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337020003
+      },
+      {
+        "EventDetailTypeName": " 触发事先约束条款",
+        "EventTypeCode": 337029000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337029005
+      },
+      {
+        "EventDetailTypeName": "票面利率调整",
+        "EventTypeCode": 337029000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337029001
+      },
+      {
+        "EventDetailTypeName": "资金用途变更",
+        "EventTypeCode": 337029000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337029002
+      },
+      {
+        "EventDetailTypeName": "推迟/取消发行",
+        "EventTypeCode": 337029000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337029003
+      },
+      {
+        "EventDetailTypeName": "债券持有人会议",
+        "EventTypeCode": 337029000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337029004
+      },
+      {
+        "EventDetailTypeName": "递延付息",
+        "EventTypeCode": 337030000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337030002
+      },
+      {
+        "EventDetailTypeName": "可转债提前赎回",
+        "EventTypeCode": 337030000,
+        "ImportantLevel": 3,
+        "EventDetailTypeCode": 337030007
+      },
+      {
+        "EventDetailTypeName": "付息兑付",
+        "EventTypeCode": 337030000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337030001
+      },
+      {
+        "EventDetailTypeName": "回售行权",
+        "EventTypeCode": 337030000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337030003
+      },
+      {
+        "EventDetailTypeName": "赎回行权",
+        "EventTypeCode": 337030000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337030004
+      },
+      {
+        "EventDetailTypeName": "转债转股",
+        "EventTypeCode": 337030000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337030005
+      },
+      {
+        "EventDetailTypeName": "担保人代偿",
+        "EventTypeCode": 337030000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337030006
+      },
+      {
+        "EventDetailTypeName": "退市",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337011001
+      },
+      {
+        "EventDetailTypeName": "风险警示",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337011004
+      },
+      {
+        "EventDetailTypeName": "股票卖空",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337011009
+      },
+      {
+        "EventDetailTypeName": "连续下跌",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337011012
+      },
+      {
+        "EventDetailTypeName": "暂停上市",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337011018
+      },
+      {
+        "EventDetailTypeName": "拟主动撤回股票上市地位",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337011021
+      },
+      {
+        "EventDetailTypeName": "重大事项停牌",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337011002
+      },
+      {
+        "EventDetailTypeName": "剔除指数",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337011015
+      },
+      {
+        "EventDetailTypeName": "重大事项复牌",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337011003
+      },
+      {
+        "EventDetailTypeName": "交易异动",
+        "EventTypeCode": 337035000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337011010
+      },
+      {
+        "EventDetailTypeName": "减持股份",
+        "EventTypeCode": 337036000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337011006
+      },
+      {
+        "EventDetailTypeName": "解禁",
+        "EventTypeCode": 337036000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337011008
+      },
+      {
+        "EventDetailTypeName": "终止回购",
+        "EventTypeCode": 337036000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337011024
+      },
+      {
+        "EventDetailTypeName": "拟减持股份",
+        "EventTypeCode": 337036000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337036001
+      },
+      {
+        "EventDetailTypeName": "大宗交易",
+        "EventTypeCode": 337036000,
+        "ImportantLevel": 2,
+        "EventDetailTypeCode": 337011013
+      },
+      {
+        "EventDetailTypeName": "机构下调估值",
+        "EventTypeCode": 337037000,
+        "ImportantLevel": 5,
+        "EventDetailTypeCode": 337011017
+      },
+      {
+        "EventDetailTypeName": "被出具沽空报告",
+        "EventTypeCode": 337037000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337011022
+      },
+      {
+        "EventDetailTypeName": "可转债减持",
+        "EventTypeCode": 337038000,
+        "ImportantLevel": 4,
+        "EventDetailTypeCode": 337038001
+      }
+    ]
+}

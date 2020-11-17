@@ -1,0 +1,48 @@
+.zhangjiang-components-scroll{
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    .w_bottom{
+        img{
+            height: 0.146667rem;
+            width: 0.146667rem;
+            margin-right: 0.06667rem;
+        }
+    }
+    .w_bottom_operation {
+        height: 0.146667rem;
+        line-height: 0.146667rem;
+        width: calc(100%);
+
+        .progress{
+            width: calc(100%)!important;
+
+        }
+
+        input[type=range]{
+            -webkit-appearance: none;
+            width:6.0rem;
+            border-radius: .8rem;
+        }
+
+        input[type=range]::-webkit-slider-thumb{
+            -webkit-appearance: none;
+            height: .07rem;
+            width: .07rem;
+            margin-top: -0.0275rem;
+            background: #3DC1D4;
+            border-radius: 50%;
+            // border:solid 0.125em rgba(205,224,230,0.5);
+        }
+
+        input[type=range]::-webkit-slider-runnable-track{
+            height: .026042rem;
+            background: #F2F2F2;
+            border-radius: .266667rem;
+        }
+
+        input[type=range]:focus{
+            outline: none;
+        }
+    }
+}

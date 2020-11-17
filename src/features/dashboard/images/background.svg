@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1859px" height="924px" viewBox="0 0 1859 924" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <defs>
+        <radialGradient cx="50%" cy="47.864135%" fx="50%" fy="47.864135%" r="81.1599931%" gradientTransform="translate(0.500000,0.478641),scale(0.496500,1.000000),rotate(84.872453),scale(1.000000,1.193079),translate(-0.500000,-0.478641)" id="radialGradient-1">
+            <stop stop-color="#082E78" offset="0%"></stop>
+            <stop stop-color="#021D24" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="31" y="125" width="1857" height="922" rx="4"></rect>
+        <filter x="-1.9%" y="-3.8%" width="103.8%" height="107.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="17" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="25.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0349209119   0 0 0 0 0.255520557   0 0 0 0 0.424224411  0 0 0 0.493170892 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-30.000000, -124.000000)">
+            <g id="大背景">
+                <use fill-opacity="0.8" fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use stroke="#5B9DD0" stroke-width="1" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
