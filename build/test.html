@@ -1,0 +1,19 @@
+<html>
+
+<body>
+    <button style="cursor: pointer;" onclick="previous()">上一页</button>
+    <button style="cursor: pointer;" onclick="next()">下一页</button>
+
+    <iframe id="iframe" style="width:1920px; height: 1080px;" src="http://180.96.8.44/govpublic/#/dashboard/1"></iframe>
+</body>
+<script>
+    function previous() {
+        document.querySelector('iframe').src = 'http://180.96.8.44/govpublic/#/dashboard/1';
+    }
+
+    function next() {
+        document.querySelector('iframe').src = 'http://180.96.8.44/govpublic/#/dashboard/2';
+    }
+</script>
+
+</html>

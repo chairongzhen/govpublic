@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4028px" height="2169px" viewBox="0 0 4028 2169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>弹框</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="51.8501834%" cy="20.1178993%" fx="51.8501834%" fy="20.1178993%" r="96.3310463%" gradientTransform="translate(0.518502,0.201179),scale(0.531502,1.000000),rotate(90.000000),scale(1.000000,1.193079),translate(-0.518502,-0.201179)" id="radialGradient-1">
+            <stop stop-color="#0849A3" offset="0%"></stop>
+            <stop stop-color="#00112E" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="6" y="0" width="3968" height="2109" rx="1"></rect>
+        <filter x="-1.2%" y="-2.0%" width="102.4%" height="104.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="5.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.200845269   0 0 0 0 0.939509737   0 0 0 0 0.909364285  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="上海金融指数1备份-4" transform="translate(-1827.000000, -177.000000)">
+            <g id="弹框" transform="translate(1851.000000, 201.000000)">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use stroke="#59B4FF" stroke-width="1" fill-opacity="0.9" fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="编组-9" transform="translate(3829.000000, 150.000000) scale(-1, 1) translate(-3829.000000, -150.000000) translate(3679.000000, 0.000000)" fill="#00F4FF">
+                    <rect id="矩形" x="0" y="0" width="8" height="300" rx="2"></rect>
+                    <rect id="矩形备份" transform="translate(150.000000, 4.000000) rotate(90.000000) translate(-150.000000, -4.000000) " x="146" y="-146" width="8" height="300" rx="2"></rect>
+                </g>
+                <g id="编组-9备份-11" transform="translate(3827.000000, 1967.000000) scale(-1, -1) translate(-3827.000000, -1967.000000) translate(3677.000000, 1817.000000)" fill="#00F4FF">
+                    <rect id="矩形" x="0" y="0" width="8" height="300" rx="2"></rect>
+                    <rect id="矩形备份" transform="translate(150.000000, 4.000000) rotate(90.000000) translate(-150.000000, -4.000000) " x="146" y="-146" width="8" height="300" rx="2"></rect>
+                </g>
+                <g id="编组-9备份-10" transform="translate(1.000000, 1.000000)" fill="#00F4FF">
+                    <rect id="矩形" x="0" y="0" width="8" height="300" rx="2"></rect>
+                    <rect id="矩形备份" transform="translate(150.000000, 4.000000) rotate(90.000000) translate(-150.000000, -4.000000) " x="146" y="-146" width="8" height="300" rx="2"></rect>
+                </g>
+                <g id="编组-9备份-12" transform="translate(150.000000, 1968.000000) scale(1, -1) translate(-150.000000, -1968.000000) translate(0.000000, 1818.000000)" fill="#00F4FF">
+                    <rect id="矩形" x="0" y="0" width="8" height="300" rx="2"></rect>
+                    <rect id="矩形备份" transform="translate(150.000000, 4.000000) rotate(90.000000) translate(-150.000000, -4.000000) " x="146" y="-146" width="8" height="300" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

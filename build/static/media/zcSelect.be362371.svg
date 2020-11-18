@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="28px" viewBox="0 0 118 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>选中按企业数量</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M149.351059,260 L252.629008,260 C254.838147,260 256.629008,261.790861 256.629008,264 C256.629008,264.388072 256.572534,264.774079 256.461363,265.145887 L250.481296,285.145887 C249.974876,286.839583 248.416728,288 246.648941,288 L143.370992,288 C141.161853,288 139.370992,286.209139 139.370992,284 C139.370992,283.611928 139.427466,283.225921 139.538637,282.854113 L145.518704,262.854113 C146.025124,261.160417 147.583272,260 149.351059,260 Z" id="path-1"></path>
+        <filter x="-30.5%" y="-135.7%" width="161.0%" height="371.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="24" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="25.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0349209119   0 0 0 0 0.255520557   0 0 0 0 0.424224411  0 0 0 0.493170892 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="上市企业" transform="translate(-139.000000, -260.000000)">
+            <g id="选中按企业数量">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <path stroke="#18B7D9" stroke-width="1" d="M149.351059,260.5 C147.804246,260.5 146.440866,261.515365 145.997748,262.997349 L140.017682,282.997349 C139.920406,283.322681 139.870992,283.660437 139.870992,284 C139.870992,285.932997 141.437995,287.5 143.370992,287.5 L246.648941,287.5 C248.195754,287.5 249.559134,286.484635 250.002252,285.002651 L255.982318,265.002651 C256.079594,264.677319 256.129008,264.339563 256.129008,264 C256.129008,262.067003 254.562005,260.5 252.629008,260.5 L149.351059,260.5 Z" stroke-linejoin="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
